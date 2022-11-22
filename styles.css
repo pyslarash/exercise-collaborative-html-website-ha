@@ -13,3 +13,10 @@
     display: table;
     clear: both;
 }
+.form-check-input{
+  margin-top: 30px;
+}
+.btn-primary{
+  margin-top: 20px;
+}
+
